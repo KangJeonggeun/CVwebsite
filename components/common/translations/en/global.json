@@ -1,0 +1,103 @@
+{
+  "hero": {
+    "welcome": "Welcome!",
+    "intro": "I am Jeonggeun Kang"
+  },
+  "about": {
+    "about1": "I have strong passionfor mathematics, design and programming. I want to fill the gap between sesign and modern UI technology.",
+    "about2": " I enjoy learning new concepts and apply it on my work. Learning and improving are important parts of my life."
+  },
+  "projects": {
+    "project": "PROJECTS",
+    "myworks": "My Works",
+    "intro": "I am passionate to math and programming."
+  },
+  "quote": {
+    "1": "I have ",
+    "2": "strong",
+    "3": "analytic thinking and",
+    "4": " obsession",
+    "5": " for details in design"
+  },
+  "skills": {
+    "1": "SKILLS ",
+    "2": "My Skills",
+    "3": "I like to take responsibility to craft aesthetic user experience using modern frontend architecture.",
+    "4": "FRONTEND DEVELOPMENT",
+    "5": " Design",
+    "6": "Other Skills"
+  },
+  "timeline": {
+    "MILESTONES": "MILESTONES ",
+    "Timeline": "Timeline",
+    "quickRecap": "A quick recap of proud moments"
+  },
+  "2025": {
+    "title": "2025"
+  },
+  "M.Sc. Mathematics, TUM": {
+    "title": "M.Sc. Mathematics, TUM",
+    "subtitle": "Finished master's degree in TUM with focus on Algebraic Geometry"
+  },
+  "2024": {
+    "title": "2024"
+  },
+  "Student Assistat for an AI module": {
+    "title": "Student Assistat for an AI module",
+    "subtitle": "Student assistant in TUM. My responsibilities were to create visualizations of mathematcal conceps and reasearch course contents."
+  },
+  "2023": {
+    "title": "2023"
+  },
+  "Python Tutor": {
+    "title": "Python Tutor",
+    "subtitle": "I worked as Python tutor and taught more than 40 students."
+  },
+  "2022": {
+    "title": "2022"
+  },
+  "SOOA Design": {
+    "title": "SOOA Design",
+    "subtitle": "I worked as a logo designer."
+  },
+  "B.Sc Mathematics": {
+    "title": "B.Sc Mathematics",
+    "subtitle": "HUFS, South Korea. Earned Bachelor degree with 1st position in graduation exam."
+  },
+  "2021": {
+    "title": "2021"
+  },
+  "Udergraduate Assistant": {
+    "title": "Udergraduate Assistant",
+    "subtitle": "HUFS, South Korea. Udergraduate assistant in Prof.Shin's lab."
+  },
+  "2019": {
+    "title": "2019"
+  },
+  "Math Teacher": {
+    "title": "Math Teacher",
+    "subtitle": "Hansol Private Academy. South Korea. Worked as a math instructor."
+  },
+  "TYPED_STRINGS": {
+    "1": "I design and develop things",
+    "2": "I develop modern frontend apps",
+    "3": "I design dynamic user experience",
+    "4": "I design and develop motion"
+  },
+  "collab": {
+    "intersted": "Interested in giving me",
+    "giving": "giving ",
+    "me": "me",
+    "hire": " a chance",
+    "?": "?"
+  },
+  "footer": {
+    "cv": "Check my resume by clicking the below button",
+    "developed": "Developed with ❤️ by Jeonggeun"
+  },
+  "menu": {
+    "Home": "Home",
+    "Skills": "Skills",
+    "Timeline": "Timeline"
+  }
+}
