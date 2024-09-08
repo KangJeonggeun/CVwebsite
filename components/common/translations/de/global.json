@@ -4,54 +4,54 @@
     "intro": "Ich bin Jeonggeun Kang"
   },
   "about": {
-    "about1": "Ich habe eine starke Leidenschaft für Mathematik, Design und Programmierung. Ich möchte die Lücke zwischen Design und moderner UI-Technologie schließen.",
-    "about2": " Ich lerne gerne neue Konzepte und wende sie in meiner Arbeit an. Lernen und Weiterentwicklung sind wichtige Bestandteile meines Lebens."
+    "about1": "Ich habe eine große Leidenschaft für Mathematik, Design und Programmierung. Ich möchte meine technologischen Fähigkeiten nutzen, um die Welt zu verbessern.",
+    "about2": "Ich genieße es, neue Konzepte zu lernen und sie in meiner Arbeit anzuwenden. Lernen und Verbesserung sind wichtige Teile meines Lebens."
   },
   "projects": {
     "project": "PROJEKTE",
     "myworks": "Meine Arbeiten",
-    "intro": "Ich bin leidenschaftlich an Mathematik und Programmierung interessiert."
+    "intro": "Ich bin leidenschaftlich für Mathematik und Programmierung."
   },
   "quote": {
     "1": "Ich habe ",
     "2": "starkes",
     "3": "analytisches Denken und",
-    "4": " eine Besessenheit",
-    "5": " für Details im Design"
+    "4": " Erfahrung",
+    "5": " für interkulturelle Umgebungen."
   },
   "skills": {
-    "1": "FÄHIGKEITEN",
-    "2": "Meine Fähigkeiten",
-    "3": "Ich übernehme gerne die Verantwortung, um ästhetische Benutzererlebnisse mit moderner Frontend-Architektur zu gestalten.",
-    "4": "FRONTEND-ENTWICKLUNG",
-    "5": "Design",
+    "1": "IT-KENNTNISSE",
+    "2": "Meine IT-Kenntnisse",
+    "3": "Ich löse gerne Probleme mit logischem Ansatz und Kreativität.",
+    "4": "FRONTEND-ENTWICKLUNG & PROGRAMMIERUNG",
+    "5": " Design",
     "6": "Weitere Fähigkeiten"
   },
   "timeline": {
     "MILESTONES": "MEILENSTEINE",
     "Timeline": "Zeitleiste",
-    "quickRecap": "Ein kurzer Rückblick auf stolze Momente"
+    "quickRecap": "Ein schneller Rückblick auf stolze Momente"
   },
   "2025": {
     "title": "2025"
   },
   "M.Sc. Mathematics, TUM": {
     "title": "M.Sc. Mathematik, TUM",
-    "subtitle": "Abschluss des Masterstudiums an der TUM mit Schwerpunkt Algebraische Geometrie"
+    "subtitle": "Masterabschluss an der TUM mit Schwerpunkt Algebraische Geometrie"
   },
   "2024": {
     "title": "2024"
   },
   "Student Assistat for an AI module": {
-    "title": "Studentische Hilfskraft für ein KI-Modul",
-    "subtitle": "Studentische Hilfskraft an der TUM. Meine Aufgaben bestanden darin, Visualisierungen mathematischer Konzepte zu erstellen und Kursinhalte zu recherchieren."
+    "title": "Studentischer Assistent für ein KI-Modul",
+    "subtitle": "Studentischer Assistent an der TUM. Meine Aufgaben waren die Erstellung von Visualisierungen mathematischer Konzepte und die Recherche von Kursinhalten."
   },
   "2023": {
     "title": "2023"
   },
   "Python Tutor": {
     "title": "Python-Tutor",
-    "subtitle": "Ich arbeitete als Python-Tutor und unterrichtete mehr als 40 Studierende."
+    "subtitle": "Ich arbeitete als Python-Tutor und unterrichtete mehr als 40 Studenten."
   },
   "2022": {
     "title": "2022"
@@ -62,42 +62,42 @@
   },
   "B.Sc Mathematics": {
     "title": "B.Sc Mathematik",
-    "subtitle": "HUFS, Südkorea. Abschluss des Bachelorstudiums mit dem ersten Platz im Abschlussprüfungsranking."
+    "subtitle": "HUFS, Südkorea. Bachelorabschluss mit dem 1. Platz im Abschlussprüfungs."
   },
   "2021": {
     "title": "2021"
   },
   "Udergraduate Assistant": {
-    "title": "Untergraduate Assistant",
-    "subtitle": "HUFS, Südkorea. Undergraduate Assistant im Labor von Prof. Shin."
+    "title": "Studentische Hilfskraft",
+    "subtitle": "HUFS, Südkorea. Studentische Hilfskraft im Labor von Prof. Shin."
   },
   "2019": {
     "title": "2019"
   },
   "Math Teacher": {
     "title": "Mathematiklehrer",
-    "subtitle": "Hansol Private Academy, Südkorea. Tätigkeit als Mathematikdozent."
+    "subtitle": "Hansol Private Academy, Südkorea. Arbeitete als Mathematikdozent."
   },
   "TYPED_STRINGS": {
-    "1": "Ich entwerfe und entwickle Dinge",
-    "2": "Ich entwickle moderne Frontend-Apps",
-    "3": "Ich gestalte dynamische Benutzererlebnisse",
-    "4": "Ich entwerfe und entwickle Bewegungsdesigns"
+    "1": "Ich liebe Mathematik und Programmierung",
+    "2": "Ich lerne und passe mich neuen Umgebungen an",
+    "3": "Ich bringe interkulturelle Erfahrung mit",
+    "4": "Ich entwerfe und entwickle Benutzererfahrungen"
   },
   "collab": {
     "intersted": "Interessiert daran, mir",
-    "giving": "",
-    "me": "",
-    "hire": "eine Chance zu geben",
+    "giving": "eine Chance zu geben",
+    "me": "mich",
+    "hire": "zu engagieren",
     "?": "?"
   },
   "footer": {
-    "cv": "Überprüfen Sie meinen Lebenslauf, indem Sie auf den untenstehenden Button klicken",
+    "cv": "Überprüfen Sie meinen Lebenslauf, indem Sie auf den folgenden Button klicken",
     "developed": "Entwickelt mit ❤️ von Jeonggeun"
   },
   "menu": {
-    "Home": "Home",
-    "Skills": "Fähigkeiten",
+    "Home": "Startseite",
+    "Skills": "IT-Kenntnisse",
     "Timeline": "Zeitleiste"
   }
 }

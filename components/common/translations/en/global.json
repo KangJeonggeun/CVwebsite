@@ -4,7 +4,7 @@
     "intro": "I am Jeonggeun Kang"
   },
   "about": {
-    "about1": "I have strong passionfor mathematics, design and programming. I want to fill the gap between sesign and modern UI technology.",
+    "about1": "I have strong passion for mathematics, design and programming. I want to bring my technological ability to make the world better.",
     "about2": " I enjoy learning new concepts and apply it on my work. Learning and improving are important parts of my life."
   },
   "projects": {
@@ -16,14 +16,14 @@
     "1": "I have ",
     "2": "strong",
     "3": "analytic thinking and",
-    "4": " obsession",
-    "5": " for details in design"
+    "4": " experience",
+    "5": " for intercutural environment."
   },
   "skills": {
-    "1": "SKILLS ",
-    "2": "My Skills",
-    "3": "I like to take responsibility to craft aesthetic user experience using modern frontend architecture.",
-    "4": "FRONTEND DEVELOPMENT",
+    "1": "IT-SKILLS ",
+    "2": "My IT-Skills",
+    "3": "I like to solve problems using logical approach and creativity.",
+    "4": "FRONTEND DEVELOPMENT & PROGRAMMING",
     "5": " Design",
     "6": "Other Skills"
   },
@@ -79,10 +79,10 @@
     "subtitle": "Hansol Private Academy. South Korea. Worked as a math instructor."
   },
   "TYPED_STRINGS": {
-    "1": "I design and develop things",
-    "2": "I develop modern frontend apps",
-    "3": "I design dynamic user experience",
-    "4": "I design and develop motion"
+    "1": "I love math and programming",
+    "2": "I learn and adapt to new environments",
+    "3": "I bring intercultural experience",
+    "4": "I design and develop user experience"
   },
   "collab": {
     "intersted": "Interested in giving me",
@@ -97,7 +97,7 @@
   },
   "menu": {
     "Home": "Home",
-    "Skills": "Skills",
+    "Skills": "IT-Skills",
     "Timeline": "Timeline"
   }
 }
