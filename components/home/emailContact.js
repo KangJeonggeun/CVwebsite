@@ -14,7 +14,6 @@ import {
 import { createContext, useState } from "react";
 import { sendContactForm } from "../../lib/api";
 // import Button, { ButtonTypes } from "../common/button";
-const dummy = "dummy";
 
 const initValues = { name: "", email: "", subject: "", message: "" };
 
