@@ -18,6 +18,7 @@ import Footer from "@/components/common/footer";
 import TimelineSection from "@/components/home/timeline";
 import Scripts from "@/components/common/scripts";
 import AboutSection from "@/components/home/about";
+import Contact from "@/components/home/emailContact";
 
 import global_en from "../components/common/translations/en/global.json";
 import global_de from "../components/common/translations/de/global.json";
@@ -25,6 +26,7 @@ import i18next from "i18next";
 import { I18nextProvider } from "react-i18next";
 import { LanguageProvider } from "../components/common/langcontext";
 import LanguageSwitcher from "@/components/home/langswitcher";
+import { ChakraProvider } from "@chakra-ui/react";
 
 i18next.init({
   interpolation: { escapeValue: false },
@@ -103,6 +105,7 @@ export default function Home() {
               <SkillsSection />
               <TimelineSection isDesktop={isDesktop} />
               <CollaborationSection />
+              <Contact />
               <Footer />
             </main>
             {/* <Scripts /> */}
