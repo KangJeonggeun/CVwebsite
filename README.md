@@ -8,7 +8,7 @@ This is myebsite to show my CV 🚀
 
 ## The features that I made
 
-1. I built German translation usng react-i18next. 
+1. I built German translation using react-i18next. 
 2. I built email sender so that users can send me a mail. The user also gets notification mail.
 3. I also worked on small features with React under Typescript undr MIT liscence. Please check the liscence file.
 
