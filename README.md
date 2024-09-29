@@ -6,7 +6,7 @@
 
 This is myebsite to show my CV 🚀
 
-## Te features that I added?
+## The features that I made
 
 1. I added German translation usng react-i18next. 
 2. I added email sender so that users can send me a mail. The user also gets notification mail.
