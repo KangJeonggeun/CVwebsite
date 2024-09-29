@@ -135,7 +135,7 @@ const HeroSection = React.memo(() => {
               target: "_blank",
               rel: "noreferrer",
             }}
-            href="/CV_kang.pdf"
+            href="/lebenslauf_JeonggeunKang.pdf"
           ></Button>
           {/* <Button
             classes="ml-3"
