@@ -12,9 +12,6 @@ This is myebsite to show my CV 🚀
 ## **About the Project:**
 I developed my website to showcase my resume and education. Throughout the project, I learned fundamental and practical skills in modern web development. I worked on the German translation using React-i18next. Additionally, I implemented an email sending service with Nodemailer. I developed the Next.js application and deployed it through Vercel. This experience has broadened my understanding of web development. For the design and basic structure, I utilized code from templates and worked under an MIT license.
 
-## **Link:**
-[My Website | JG.Kang](https://your-website-link.com)
-
 ## Run local?
 
 First, run the development server:
@@ -35,7 +32,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## **Über das Projekt:**
 Ich habe meine Website entwickelt, um meinen Lebenslauf und meine Ausbildung zu präsentieren. Während des Projekts habe ich grundlegende und praktische Fähigkeiten in der modernen Webentwicklung erlernt. Ich habe an der deutschen Übersetzung mit React-i18next gearbeitet. Zudem habe ich einen E-Mail-Versanddienst mit Nodemailer implementiert. Die Next.js-Anwendung habe ich entwickelt und über Vercel bereitgestellt. Diese Erfahrung hat mein Verständnis für Webentwicklung erweitert. Für das Design und die Grundstruktur habe ich auf Code von Vorlagen zurückgegriffen und unter einer MIT-Lizenz gearbeitet.
 
-## **Link:**
-[Meine Website | JG.Kang](https://your-website-link.com)
 
 
